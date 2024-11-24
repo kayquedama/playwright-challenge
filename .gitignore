@@ -3,3 +3,9 @@
 
 # Ignore all .pytest_cache directories
 **/.pytest_cache/
+
+# Ignore all contents of the Report folder
+Report/*
+
+# Allow .gitkeep or other specific files to keep the folder
+!Report/.gitkeep
