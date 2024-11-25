@@ -1,4 +1,4 @@
-# Playwrite challenge
+# Playwright challenge
 
 This project contains a set of files and directories for testing a web application using Playwright and Pytest.
 
